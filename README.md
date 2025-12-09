@@ -29,3 +29,7 @@ Constraints:
 
 The system should be scalable to handle a growing number of subscribers without compromising performance.
 Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
+
+## UML Diagram
+![alt text](https://github.com/shinramyeon22/ObserverPattern/blob/main/observerPattern.png)
+
